@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "968905020525",
+    "firebase_url": "https://nomanlab-f82b7-default-rtdb.firebaseio.com",
+    "project_id": "nomanlab-f82b7",
+    "storage_bucket": "nomanlab-f82b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968905020525:android:b0769500042289b55a5b64",
+        "android_client_info": {
+          "package_name": "com.example.lab_finl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968905020525-d8jmc8g14v0s2egki75miaf2vnh7vf9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lab_finl",
+            "certificate_hash": "db50ecabeb353848312b80a3fd6b188c52a7b8df"
+          }
+        },
+        {
+          "client_id": "968905020525-27n6hvhvdvce1ruk88d756a0npqi1kja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfjSXBpV3Xspldl0uon23tIV1YfOJaffY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968905020525-27n6hvhvdvce1ruk88d756a0npqi1kja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
